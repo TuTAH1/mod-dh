@@ -1,6 +1,6 @@
 # Edit (difference from main branch): 
 
-Physical keys changed to qwerty ones (to unify keyboard shortcuts between different layouts, simmilar to how it's done in non-latin language layouts).
+Physical keys changed to qwerty ones (to unify keyboard shortcuts between different layouts, simmilar to how it's done in non-latin language layouts). See [releases](https://github.com/TuTAH1/kolemak-mod-dh-qwerty-physical-keys/releases) to download my version of Kolemak-DH. Text below left unchanged.
 
 Colemak Mod-DH Downloads
 ========================
