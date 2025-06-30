@@ -1,3 +1,5 @@
+#Edit: physical keys changed to qwerty ones (to unify keyboard shortcuts between different layouts, simmilar to how it's done in non-latin language layouts).
+
 Colemak Mod-DH Downloads
 ========================
 
